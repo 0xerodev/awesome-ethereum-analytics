@@ -95,6 +95,7 @@ APIs for your projects.
 - [Etherscan API](https://etherscan.io/apis)
 - [Infura API](https://infura.io/docs)
 - [Ethereum JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)
+- [NanoStack](https://api.nano-labs.io) - Cross-chain execution API for native token swaps across 80+ chains.
 
 ## Communities
 
